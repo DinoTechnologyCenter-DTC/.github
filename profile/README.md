@@ -1,7 +1,7 @@
 # 🚀 DinoTechnology Center (DTC)
 
 <p align="center">
-<img src="profile/dtc_logo2.4.png" width="180"/>
+<img src=".github/profile/dtc_logo2.4.png" width="180"/>
 </p>
 
 <p align="center">
@@ -140,3 +140,4 @@ Email: **info@dinotechnologycenter.com**
 If you like our work, consider **starring our repositories** and following the organization.
 
 Together we build the future of technology 🚀
+
