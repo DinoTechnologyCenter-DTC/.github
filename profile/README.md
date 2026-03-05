@@ -1,8 +1,10 @@
-# 🚀 DinoTechnology Center (DTC)
 
 <p align="center">
-<img src="/dtc_logo2.4.png" width="180"/>
+<img src="./dtc_logo2.4.png" width="180"/>
 </p>
+<h1 align="center">
+  DinoTechnology Center (DTC)
+</h1>
 
 <p align="center">
 Building innovative software solutions and empowering businesses through modern technology.
@@ -140,5 +142,6 @@ Email: **info@dinotechnologycenter.com**
 If you like our work, consider **starring our repositories** and following the organization.
 
 Together we build the future of technology 🚀
+
 
 
